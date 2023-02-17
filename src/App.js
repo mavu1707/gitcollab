@@ -3,7 +3,7 @@ import './recipes.css';
 
 function App() {
   return (
-    <>
+    <div id="container">
       <header>
         <h1>Oppskrifter</h1>
       </header>
@@ -13,7 +13,7 @@ function App() {
       <footer>
 
       </footer>
-    </>
+    </div>
   );
 }
 
