@@ -13,3 +13,12 @@ body {
     padding: 2rem;
     margin: 0 auto;
 }
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main > article {
+    background-color: #f3f3f3;
+}
