@@ -1,4 +1,5 @@
 import './App.css';
+import RecipeCard from './components/RecipeCard';
 import './recipes.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
         <h1>Oppskrifter</h1>
       </header>
       <main>
+        <RecipeCard title="Pizza" ingress="Italiensk pizza" />
 
       </main>
       <footer>

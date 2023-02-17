@@ -22,3 +22,9 @@ main {
 main > article {
     background-color: #f3f3f3;
 }
+.recipe-card {
+    max-width: 300px;
+    width: 100%;
+    border: 1px solid #969595;
+    padding: 1rem;
+  }
