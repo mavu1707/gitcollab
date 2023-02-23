@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  color: pink;
+  font-size: 3rem;
+}
+
+main{
+  display: flex;
+  justify-content: space-between;
+}
+
+.recipe-card{
+  color: black;
+  margin: 1rem;
+}
